@@ -48,7 +48,7 @@ const App={
                     <span class="text-[#6b7280] text-sm">Developed by</span>
                     <div class="flex items-center gap-2">
                         <img src="/dev.png" class="w-6 h-6 rounded-full object-cover border border-white/10" referrerPolicy="no-referrer" onerror="this.src='https://api.dicebear.com/7.x/bottts/svg?seed=nanzz'" />
-                        <span class="text-white font-medium text-sm">Nanzz</span>
+                        <span class="text-white font-medium text-sm">Tiyanz</span>
                     </div>
                 </div>
                 <div class="flex justify-between items-center">
@@ -60,7 +60,7 @@ const App={
                 </div>
             </div>
             
-            <a href="https://whatsapp.com/channel/0029Vb8cslf8aKvEpFOaMC0m" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center">
+            <a href="https://whatsapp.com/channel/0029VbCs8HM9xVJd31fSu60X" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center">
                 💬 Gabung Channel WhatsApp
             </a>
         </div>`;
