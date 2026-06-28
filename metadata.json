@@ -1,6 +1,6 @@
 {
-  "name": "NanzMusify",
-  "description": "NanzMusify - Music Player with YouTube API",
+  "name": "Tiyanz",
+  "description": "Musicall - Music Player with YouTube API",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
